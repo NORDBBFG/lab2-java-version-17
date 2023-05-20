@@ -1,0 +1,5 @@
+rootProject.name = 'lab2'
+include 'ModulONE'
+include 'ModulTWO'
+include 'Stock'
+
